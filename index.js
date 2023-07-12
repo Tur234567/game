@@ -1,6 +1,7 @@
 import { cardsForRandom } from "./randomCards.js";
 import { randerFirstPage, imia } from "./render.js";
 import "./style.css";
+// для сохранения
 
 randerFirstPage();
 
